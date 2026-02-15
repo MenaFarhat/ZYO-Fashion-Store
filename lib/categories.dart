@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:zyo/head.dart';
-import 'package:zyo/product.dart';
-
+import 'package:zyofashionstore/head.dart';
+import 'package:zyofashionstore/product.dart';
 class Categories extends StatefulWidget {
   const Categories({super.key});
 

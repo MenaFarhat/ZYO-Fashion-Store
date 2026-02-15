@@ -1,11 +1,10 @@
 import 'package:custom_navigation_bar/custom_navigation_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:zyo/categories.dart';
-import 'package:zyo/homescreen.dart';
-import 'package:zyo/new.dart';
-import 'package:zyo/settings.dart';
-import 'package:zyo/wish_list.dart';
-
+import 'package:zyofashionstore/categories.dart';
+import 'package:zyofashionstore/homescreen.dart';
+import 'package:zyofashionstore/new.dart';
+import 'package:zyofashionstore/settings.dart';
+import 'package:zyofashionstore/wish_list.dart';
 class MyNavBar extends StatefulWidget {
   const MyNavBar({super.key});
 

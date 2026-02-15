@@ -1,8 +1,8 @@
 // ignore_for_file: deprecated_member_use
 
 import 'package:flutter/material.dart';
-import 'package:zyo/searchscreen.dart';
-import 'package:zyo/showphoto.dart';
+import 'package:zyofashionstore/searchscreen.dart';
+import 'package:zyofashionstore/showphoto.dart';
 
 class Touch extends StatefulWidget {
   const Touch({super.key});

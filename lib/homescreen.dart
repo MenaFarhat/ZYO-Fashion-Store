@@ -2,8 +2,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:carousel_slider/carousel_slider.dart';
-import 'package:zyo/head.dart';
-import 'package:zyo/touch.dart';
+import 'package:zyofashionstore/head.dart';
+import 'package:zyofashionstore/touch.dart';
 
 import 'searchscreen.dart';
 

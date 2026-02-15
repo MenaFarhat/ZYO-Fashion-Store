@@ -1,7 +1,7 @@
 // ignore_for_file: deprecated_member_use
 
 import 'package:flutter/material.dart';
-import 'package:zyo/custom_nav_bar.dart';
+import 'package:zyofashionstore/custom_nav_bar.dart';
 
 class SignupScreen extends StatefulWidget {
   const SignupScreen({super.key});

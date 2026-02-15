@@ -2,8 +2,8 @@
 
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:zyo/detailsofphoto.dart';
-import 'package:zyo/shoppingbug.dart';
+import 'package:zyofashionstore/detailsofphoto.dart';
+import 'package:zyofashionstore/shoppingbug.dart';
 
 class Showphoto extends StatefulWidget {
   // ignore: prefer_const_constructors_in_immutables

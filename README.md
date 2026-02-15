@@ -1,16 +1,30 @@
-# zyo
+# ZYO Fashion Store
 
-A new Flutter project.
+ZYO Fashion Store is a Flutter-based clothing store app designed for browsing, viewing, and managing products. Users can explore clothing items, see details, add products to the cart, and simulate checkout in a clean and responsive UI.
+
+## Description
+
+ZYO Fashion Store showcases practical Flutter skills in building e-commerce applications.  
+It includes features like:
+
+- Product browsing and search
+- Product details with images and descriptions
+- Shopping cart functionality
+- Responsive layouts for different screen sizes
+- Clean and user-friendly UI
+
+## Features
+
+- Browse and search clothing products
+- View product details
+- Add items to a cart
+- Simulated checkout process
+- Responsive design and Flutter best practices
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a copy of the project and run it locally:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MinaFarhat/ZYO-Fashion-Store.git

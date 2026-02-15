@@ -1,11 +1,11 @@
 // ignore_for_file: deprecated_member_use
 
 import 'package:flutter/material.dart';
-import 'package:zyo/connecttous.dart';
-import 'package:zyo/deleteaccount.dart';
-import 'package:zyo/language.dart';
-import 'package:zyo/myaddress.dart';
-import 'package:zyo/namescreen.dart';
+import 'package:zyofashionstore/connecttous.dart';
+import 'package:zyofashionstore/deleteaccount.dart';
+import 'package:zyofashionstore/language.dart';
+import 'package:zyofashionstore/myaddress.dart';
+import 'package:zyofashionstore/namescreen.dart';
 
 import 'changepassword.dart';
 
