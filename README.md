@@ -16,6 +16,10 @@
 - Dart
 - VS Code or Android Studio
 
+## Resources
+
+PDF Document: ZYO Fashion Store/assets/zyo.pdf
+
 ## Getting Started
 
 This project is built with Flutter and demonstrates e-commerce UI and interaction features.
@@ -29,11 +33,8 @@ This project is built with Flutter and demonstrates e-commerce UI and interactio
 ### Installation
 
 1. Clone the repository and navigate into the project directory, then install dependencies and run the project:
+```bash
 git clone https://github.com/MenaFarhat/ZYO-Fashion-Store.git
 cd ZYO-Fashion-Store
 flutter pub get
 flutter run
-
-### Resources
-
-PDF Document: https://github.com/MenaFarhat/ZYO-Fashion-Store/raw/main/assets/zyo/manual.pdf
