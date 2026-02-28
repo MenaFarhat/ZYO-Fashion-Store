@@ -25,7 +25,7 @@ It includes features like:
 
 Click the image below to view the PDF in your browser:
 
-[![View PDF](assets/zyo.png)](https://github.com/MenaFarhat/ZYO-Fashion-Store/raw/main/assets/.pdf)
+[![View PDF](assets/m1(3).png)](https://github.com/MenaFarhat/ZYO-Fashion-Store/assets/.pdf)
 
 ## Getting Started
 
