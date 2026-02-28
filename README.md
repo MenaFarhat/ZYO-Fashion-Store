@@ -18,7 +18,25 @@
 
 ## Resources
 
-PDF Document: https://github.com/MenaFarhat/ZYO-Fashion-Store/blob/main/assets/zyo.pdf
+Screenshots:
+
+<table>
+  <tr>
+    <td><img src="assets/ZYO Screens/1.jpg" width="200"></td>
+    <td><img src="assets/ZYO Screens/2.jpg" width="200"></td>
+    <td><img src="assets/ZYO Screens/3.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/ZYO Screens/4.jpg" width="200"></td>
+    <td><img src="assets/ZYO Screens/5.jpg" width="200"></td>
+    <td><img src="assets/ZYO Screens/6.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/ZYO Screens/7.jpg" width="200"></td>
+    <td><img src="assets/ZYO Screens/8.jpg" width="200"></td>
+    <td><img src="assets/ZYO Screens/9.jpg" width="200"></td>
+  </tr>
+</table>
 
 ## Getting Started
 
