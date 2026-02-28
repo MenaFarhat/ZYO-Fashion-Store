@@ -18,8 +18,7 @@
 
 ## Resources
 
-PDF Document: ZYO Fashion Store/assets/zyo.pdf
-
+PDF Document: [View PDF](https://github.com/MenaFarhat/ZYO-Fashion-Store/raw/main/assets/zyo.pdf)
 ## Getting Started
 
 This project is built with Flutter and demonstrates e-commerce UI and interaction features.
