@@ -16,8 +16,10 @@
 - Dart
 - VS Code or Android Studio
 
-## Resources
+
 Project Thumbnail: ![ZYO Preview](assets/ZYO Screens/2.jpg)
+
+## Resources
 ZYO Screens:
 
 <table>
