@@ -18,7 +18,7 @@
 
 ## Resources
 
-Screenshots:
+ZYO Screens:
 
 <table>
   <tr>
