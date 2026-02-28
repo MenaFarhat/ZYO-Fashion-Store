@@ -18,7 +18,7 @@
 
 ## Resources
 
-PDF Document: https://github.com/MenaFarhat/ZYO-Fashion-Store/raw/main/assets/zyo.pdf
+PDF Document: https://github.com/MenaFarhat/ZYO-Fashion-Store/blob/main/assets/zyo.pdf
 
 ## Getting Started
 
