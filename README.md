@@ -23,7 +23,9 @@ It includes features like:
 
 ## Resources
 
-PDF Document: [View PDF](https://github.com/MenaFarhat/ZYO-Fashion-Store/raw/main/assets/zyo.pdf)
+Click the image below to view the PDF in your browser:
+
+[![View PDF](assets/zyo.png)](https://github.com/MenaFarhat/ZYO-Fashion-Store/raw/main/assets/.pdf)
 
 ## Getting Started
 
