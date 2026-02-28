@@ -1,5 +1,3 @@
-<!-- Project Thumbnail: ![ZYO Preview](assets/ZYO Screens/2.jpg) -->
-
 # ZYO Fashion Store
 
 **ZYO Fashion Store** is a Flutter-based clothing store app designed for browsing, viewing, and managing products. Users can explore clothing items, see details, add products to the cart, and simulate checkout in a clean and responsive UI.
